@@ -18,15 +18,18 @@ The project was executed through a structured data pipeline:
    - Developed an interactive 3-page dashboard featuring advanced visualizations such as RFM analysis and logistics performance.
 
 ## Key Dashboards & Insights
-1. Executive Sales Performance
+1. **Executive Sales Performance**
+![Executive Dashboard](dashboard/olist-page-1.jpg)
    - Revenue Growth: Total Revenue increased by 686.92% between September 2016 and August 2018.
    - Product Leaders: Health Beauty is the top-performing category with $1.42M in sales, followed by Watches Gifts ($1.27M).
    - Geographic Reach: Significant sales distribution across Brazil, with a heavy concentration in the Sao Paulo region.
-2. Customer Insights & Segmentation
+2. **Customer Insights & Segmentation**
+![Customer Dashboard](dashboard/olist-page-2.jpg)
    - RFM Strategic Landscape: Utilized a Logarithmic Scale to map customers based on Recency (Days Since Last Purchase) and Monetary Value (Total Spent).
    - Whale Identification: Successfully isolated the "Whale" segment (Top 10%) to understand the behavior of high-value contributors.
    - Retention Alert: The current Retention Rate is 3.00%, highlighting a major opportunity for implementing customer loyalty programs.
-3. Logistics Efficiency & Revenue Analysis
+3. **Logistics Efficiency & Revenue Analysis**
+![Logistics Dashboard](dashboard/olist-page-3.jpg)
    - Delivery Excellence: The On-Time Delivery Rate stands at 91.88%.
    - Proactive Logistics: Orders are delivered an average of 10.96 days ahead of the estimated schedule, reflecting high operational efficiency.
    - Payment Behavior: Credit Card remains the preferred payment method across all customer spending tiers.
